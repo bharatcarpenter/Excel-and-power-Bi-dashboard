@@ -1,6 +1,4 @@
 # Excel-and-power-Bi-dashboard
-# Resume Showcase: Excel and Power BI Dashboard
-
 Welcome to my project repository! This repository contains an Excel file and a Power BI dashboard that I have created to demonstrate my data analysis, visualization, and reporting skills.
 
 ## What's Included
